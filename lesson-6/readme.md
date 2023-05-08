@@ -1,0 +1,6 @@
+- Primative va reference type fraqi.
+- Object
+- Array
+- Array methods
+- String
+- String methods

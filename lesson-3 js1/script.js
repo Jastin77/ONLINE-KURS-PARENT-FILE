@@ -1,3 +1,6 @@
+'use strict';
+
+
 // clearconsole.log("Jasur");
 // console.warn('internet no unstabeled browsers');
 // console.error('404 not found');
